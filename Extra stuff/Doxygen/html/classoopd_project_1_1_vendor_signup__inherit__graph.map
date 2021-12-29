@@ -1,0 +1,4 @@
+<map id="oopdProject.VendorSignup" name="oopdProject.VendorSignup">
+<area shape="rect" id="node1" title="VendorSignup class is used for vendor signup it inherits Vendor class." alt="" coords="5,277,181,399"/>
+<area shape="rect" id="node2" href="$classoopd_project_1_1_vendor.html" title="Vendor class to store vendor details and have their getter and setters." alt="" coords="12,5,175,229"/>
+</map>

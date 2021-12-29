@@ -1,0 +1,9 @@
+<map id="oopdProject.FrontPage.displayRestaurantDetails" name="oopdProject.FrontPage.displayRestaurantDetails">
+<area shape="rect" id="node1" title="displayRestaurantDetails function shows option to user how he wants to see the restaurant i...." alt="" coords="1477,5,1677,47"/>
+<area shape="rect" id="node2" href="$classoopd_project_1_1_front_page.html#a80632762ae15ab1a3afa79daaf317e6f" title="frontPageStart function displays the options user can perform. Actions: See restaurant details,..." alt="" coords="1027,5,1211,47"/>
+<area shape="rect" id="node7" href="$classoopd_project_1_1_cart.html#abf8c2394301efff70adfa2525520bc60" title=" " alt="" coords="1259,38,1429,65"/>
+<area shape="rect" id="node3" href="$classoopd_project_1_1_login.html#a9880e5e3c7431100cbd1eb36f3cdddc7" title="loginDisplay function gives options to user at the time of login such as: Enter username and password..." alt="" coords="779,13,979,39"/>
+<area shape="rect" id="node4" href="$classoopd_project_1_1start_project.html#a533448cb78ebdc39d945a9c36f20f000" title="startapplication is the method which shows user main page of the app and how he wants to continue by ..." alt="" coords="476,13,731,39"/>
+<area shape="rect" id="node5" href="$classoopd_project_1_1start_project.html#a644877110ad76a539d3e1f4b484534cb" title="main method of the system." alt="" coords="233,13,428,39"/>
+<area shape="rect" id="node6" href="$classoopd_project_1_1foodorder.html#a0dadf7dcf0793851c4cf07dfce0abacb" title=" " alt="" coords="5,13,185,39"/>
+</map>

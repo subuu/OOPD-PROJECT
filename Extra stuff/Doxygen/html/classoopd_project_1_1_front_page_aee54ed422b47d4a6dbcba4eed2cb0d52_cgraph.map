@@ -1,0 +1,9 @@
+<map id="oopdProject.FrontPage.displayRestaurantDetails" name="oopdProject.FrontPage.displayRestaurantDetails">
+<area shape="rect" id="node1" title="displayRestaurantDetails function shows option to user how he wants to see the restaurant i...." alt="" coords="5,166,205,207"/>
+<area shape="rect" id="node2" href="$classoopd_project_1_1_s_q_l_connection.html#aea0ee7588d67507b1b0a2731e7c0826b" title="getResultSet is a static function which gets data from the database for the given sql query." alt="" coords="784,170,992,211"/>
+<area shape="rect" id="node3" href="$classoopd_project_1_1_vendorwise_order.html#ac59725e8f3d8c4d368c0f413128c1f18" title="View function shows the restaurants of the chosen area. Then asks user which restaurant he will choos..." alt="" coords="253,173,480,200"/>
+<area shape="rect" id="node7" href="$classoopd_project_1_1foodwise_order.html#acd7d562a3b1340a43fbed1c21bf518da" title="View function shows the restaurants of the chosen food item. Then asks user which restaurant he will ..." alt="" coords="262,115,471,141"/>
+<area shape="rect" id="node4" href="$classoopd_project_1_1ordered.html#a9b02bec40bda6ccc3bc03787e790e23b" title="orderAssign function add order details to the orderdetails table" alt="" coords="547,107,717,149"/>
+<area shape="rect" id="node5" href="$classoopd_project_1_1tracking.html#a9477c49505e3c0d9ce37a4f09c7dfce0" title="orderTracking function tracks the order after successful payment." alt="" coords="545,42,719,83"/>
+<area shape="rect" id="node6" href="$classoopd_project_1_1_s_q_l_connection.html#a31a335244833d15a1cc410dc70b13fe2" title="runUpdateQuery is a static function which updates data in the database for the given sql query." alt="" coords="528,173,736,214"/>
+</map>

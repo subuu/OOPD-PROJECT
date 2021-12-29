@@ -1,0 +1,5 @@
+<map id="oopdProject.VendorLogin.VendorLoginDisplay" name="oopdProject.VendorLogin.VendorLoginDisplay">
+<area shape="rect" id="node1" title="VendorLoginDisplay function gives options to vendor at the time of login such as: Enter vendor userna..." alt="" coords="5,39,176,80"/>
+<area shape="rect" id="node2" href="$classoopd_project_1_1_s_q_l_connection.html#aea0ee7588d67507b1b0a2731e7c0826b" title="getResultSet is a static function which gets data from the database for the given sql query." alt="" coords="224,5,432,47"/>
+<area shape="rect" id="node3" href="$classoopd_project_1_1_s_q_l_connection.html#a31a335244833d15a1cc410dc70b13fe2" title="runUpdateQuery is a static function which updates data in the database for the given sql query." alt="" coords="224,71,432,112"/>
+</map>

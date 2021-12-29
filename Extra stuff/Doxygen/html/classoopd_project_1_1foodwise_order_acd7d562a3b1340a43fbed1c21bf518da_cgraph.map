@@ -1,0 +1,7 @@
+<map id="oopdProject.foodwiseOrder.View" name="oopdProject.foodwiseOrder.View">
+<area shape="rect" id="node1" title="View function shows the restaurants of the chosen food item. Then asks user which restaurant he will ..." alt="" coords="5,75,215,102"/>
+<area shape="rect" id="node2" href="$classoopd_project_1_1_s_q_l_connection.html#aea0ee7588d67507b1b0a2731e7c0826b" title="getResultSet is a static function which gets data from the database for the given sql query." alt="" coords="519,5,727,47"/>
+<area shape="rect" id="node3" href="$classoopd_project_1_1ordered.html#a9b02bec40bda6ccc3bc03787e790e23b" title="orderAssign function add order details to the orderdetails table" alt="" coords="281,35,452,76"/>
+<area shape="rect" id="node4" href="$classoopd_project_1_1tracking.html#a9477c49505e3c0d9ce37a4f09c7dfce0" title="orderTracking function tracks the order after successful payment." alt="" coords="279,100,454,141"/>
+<area shape="rect" id="node5" href="$classoopd_project_1_1_s_q_l_connection.html#a31a335244833d15a1cc410dc70b13fe2" title="runUpdateQuery is a static function which updates data in the database for the given sql query." alt="" coords="263,165,471,207"/>
+</map>

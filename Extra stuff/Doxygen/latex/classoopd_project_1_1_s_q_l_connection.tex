@@ -1,0 +1,115 @@
+\hypertarget{classoopd_project_1_1_s_q_l_connection}{}\doxysection{oopd\+Project.\+SQLConnection Class Reference}
+\label{classoopd_project_1_1_s_q_l_connection}\index{oopdProject.SQLConnection@{oopdProject.SQLConnection}}
+
+
+\mbox{\hyperlink{classoopd_project_1_1_s_q_l_connection}{SQLConnection}} class makes sql connection and have functions to perform different operation on database.  
+
+
+
+
+Collaboration diagram for oopd\+Project.\+SQLConnection\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=220pt]{classoopd_project_1_1_s_q_l_connection__coll__graph}
+\end{center}
+\end{figure}
+\doxysubsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static Connection \mbox{\hyperlink{classoopd_project_1_1_s_q_l_connection_ace3d0550110c9c06684851ed1bc26796}{get\+Connection}} ()  throws Class\+Not\+Found\+Exception, SQLException 
+\begin{DoxyCompactList}\small\item\em get\+Connecion is a static function establishes connection with the database. \end{DoxyCompactList}\item 
+static Result\+Set \mbox{\hyperlink{classoopd_project_1_1_s_q_l_connection_aea0ee7588d67507b1b0a2731e7c0826b}{get\+Result\+Set}} (Connection con, String s\+Query, String s\+Message)
+\begin{DoxyCompactList}\small\item\em get\+Result\+Set is a static function which gets data from the database for the given sql query. \end{DoxyCompactList}\item 
+static String \mbox{\hyperlink{classoopd_project_1_1_s_q_l_connection_a31a335244833d15a1cc410dc70b13fe2}{run\+Update\+Query}} (String s\+Query, String s\+Success\+Msg, String s\+Fail\+Msg, Connection con)
+\begin{DoxyCompactList}\small\item\em run\+Update\+Query is a static function which updates data in the database for the given sql query. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+\mbox{\hyperlink{classoopd_project_1_1_s_q_l_connection}{SQLConnection}} class makes sql connection and have functions to perform different operation on database. 
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{classoopd_project_1_1_s_q_l_connection_ace3d0550110c9c06684851ed1bc26796}\label{classoopd_project_1_1_s_q_l_connection_ace3d0550110c9c06684851ed1bc26796}} 
+\index{oopdProject.SQLConnection@{oopdProject.SQLConnection}!getConnection@{getConnection}}
+\index{getConnection@{getConnection}!oopdProject.SQLConnection@{oopdProject.SQLConnection}}
+\doxysubsubsection{\texorpdfstring{getConnection()}{getConnection()}}
+{\footnotesize\ttfamily static Connection oopd\+Project.\+SQLConnection.\+get\+Connection (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption}) throws Class\+Not\+Found\+Exception, SQLException\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+get\+Connecion is a static function establishes connection with the database. 
+
+\begin{DoxyReturn}{Returns}
+Connection 
+\end{DoxyReturn}
+
+\begin{DoxyParams}{Parameters}
+{\em void} & \\
+\hline
+\end{DoxyParams}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{classoopd_project_1_1_s_q_l_connection_ace3d0550110c9c06684851ed1bc26796_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{classoopd_project_1_1_s_q_l_connection_aea0ee7588d67507b1b0a2731e7c0826b}\label{classoopd_project_1_1_s_q_l_connection_aea0ee7588d67507b1b0a2731e7c0826b}} 
+\index{oopdProject.SQLConnection@{oopdProject.SQLConnection}!getResultSet@{getResultSet}}
+\index{getResultSet@{getResultSet}!oopdProject.SQLConnection@{oopdProject.SQLConnection}}
+\doxysubsubsection{\texorpdfstring{getResultSet()}{getResultSet()}}
+{\footnotesize\ttfamily static Result\+Set oopd\+Project.\+SQLConnection.\+get\+Result\+Set (\begin{DoxyParamCaption}\item[{Connection}]{con,  }\item[{String}]{s\+Query,  }\item[{String}]{s\+Message }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+get\+Result\+Set is a static function which gets data from the database for the given sql query. 
+
+\begin{DoxyReturn}{Returns}
+Result\+Set 
+\end{DoxyReturn}
+
+\begin{DoxyParams}{Parameters}
+{\em Connection} & object, sql query, sql message \\
+\hline
+\end{DoxyParams}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{classoopd_project_1_1_s_q_l_connection_aea0ee7588d67507b1b0a2731e7c0826b_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{classoopd_project_1_1_s_q_l_connection_a31a335244833d15a1cc410dc70b13fe2}\label{classoopd_project_1_1_s_q_l_connection_a31a335244833d15a1cc410dc70b13fe2}} 
+\index{oopdProject.SQLConnection@{oopdProject.SQLConnection}!runUpdateQuery@{runUpdateQuery}}
+\index{runUpdateQuery@{runUpdateQuery}!oopdProject.SQLConnection@{oopdProject.SQLConnection}}
+\doxysubsubsection{\texorpdfstring{runUpdateQuery()}{runUpdateQuery()}}
+{\footnotesize\ttfamily static String oopd\+Project.\+SQLConnection.\+run\+Update\+Query (\begin{DoxyParamCaption}\item[{String}]{s\+Query,  }\item[{String}]{s\+Success\+Msg,  }\item[{String}]{s\+Fail\+Msg,  }\item[{Connection}]{con }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+run\+Update\+Query is a static function which updates data in the database for the given sql query. 
+
+\begin{DoxyReturn}{Returns}
+String 
+\end{DoxyReturn}
+
+\begin{DoxyParams}{Parameters}
+{\em Connection} & object, sql query, sql success message and fail message \\
+\hline
+\end{DoxyParams}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{classoopd_project_1_1_s_q_l_connection_a31a335244833d15a1cc410dc70b13fe2_icgraph}
+\end{center}
+\end{figure}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{_s_q_l_connection_8java}{SQLConnection.\+java}}\end{DoxyCompactItemize}

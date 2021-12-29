@@ -1,0 +1,4 @@
+<map id="oopdProject.userinfo" name="oopdProject.userinfo">
+<area shape="rect" id="node1" title="userinfo class to store user details and have their getter and setters." alt="" coords="5,5,145,229"/>
+<area shape="rect" id="node2" href="$classoopd_project_1_1_signup.html" title="Signup class is used for user signup it inherits userinfo class." alt="" coords="8,277,143,399"/>
+</map>

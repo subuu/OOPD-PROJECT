@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classoopd_project_1_1userinfo.html" title="userinfo class to store user details and have their getter and setters." alt="" coords="5,5,145,32"/>
+<area shape="rect" id="node2" href="$classoopd_project_1_1_signup.html" title="Signup class is used for user signup it inherits userinfo class." alt="" coords="193,5,328,32"/>
+</map>
